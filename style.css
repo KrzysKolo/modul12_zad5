@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background: #55acee;
+}
+.container {
+	margin-top: 20px;
+	text-align: center;
+	font-family:"Comic Sans MS", cursive;
+	font-size: 1.3em;
+	
+}
+button {
+	margin: 0;
+padding: 0;
+border: 0;
+line-height: 1.4em;
+vertical-align: baseline;
+text-decoration: none;
+outline: 0;
+}
+.btn {
+	text-shadow: #999 2px 2px 3px;
+}
+.tweet, 
+.trigger {
+	color: rgba(255,255,255,1);
+	background: #55acee;
+	border: rgba(255,255,255,.3) 1px solid;
+	padding: 10px;
+	margin-top: 20px;
+	box-shadow: rgba(255,255,255,.5) 1px 1px 1px;
+}
